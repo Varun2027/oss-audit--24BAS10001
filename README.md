@@ -1,7 +1,7 @@
 # OSS Audit Project: LibreOffice
 
 * **Student Name:** NUNE VARUN TEJA
-* **Roll Number:** 24BAS10001
+* **Registration Number:** 24BAS10001
 * **Course:** Open Source Software  
 * **Date of Submission:** March 31, 2026
 
